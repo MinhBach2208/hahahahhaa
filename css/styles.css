@@ -9,7 +9,7 @@ header {
   justify-content: center;
   align-items: center;
   height: 500px;
-  background-image: url("/buoi3/images/th.jpg");
+  background-image: url("../images/header.jpg");
   background-size: cover;
 }
 header .h1 {
@@ -27,6 +27,8 @@ header .h1 {
 }
 #profile .image1 {
   height: 100px;
+  margin-top: -25px;
+  border-radius: 50px;
 }
 #profile .h2 {
   font-size: 18px;
